@@ -63,7 +63,7 @@
     To use a Terpander rather than Daurdabla, set the info.ExtraSongInstrument variable to
     'Terpander', and info.ExtraSongs to 1.
 --]]
-
+require("no_interruptions")
 -- Initialization function for this job file.
 function get_sets()
     -- Load and initialize the include file.

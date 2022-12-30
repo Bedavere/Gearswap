@@ -1,0 +1,6 @@
+1} Go to Files Location
+2}Inside Folder Hold Shift and Right Click
+3}In Menu Click "Open with PowerShell"
+4}Type in ( dir | Rename-Item -NewName {$_.name -replace"CurrentName","NewName"} )
+5}Once you are satisfied with the name Change, hit Enter to change names
+6}After the Changes have been made, Hit the Up arrow key to paste your last entry.

@@ -43,7 +43,7 @@
 -------------------------------------------------------------------------------------------------------------------
 -- Setup functions for this job.  Generally should not be modified.
 -------------------------------------------------------------------------------------------------------------------
-
+require("no_interruptions")
 -- Initialization function for this job file.
 function get_sets()
 

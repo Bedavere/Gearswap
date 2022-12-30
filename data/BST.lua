@@ -43,7 +43,7 @@
 -- Much credit goes to Falkirk of Quetzalcoatl for providing a lot of the concepts and
 -- code in this file, as well as, always, Motenten/Kinematics.
 -------------------------------------------------------------------------------------------------------------------
-
+require("no_interruptions")
 -------------------------------------------------------------------------------------------------------------------
 -- Initialization function that defines sets and variables to be used.
 -------------------------------------------------------------------------------------------------------------------

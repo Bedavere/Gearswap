@@ -42,7 +42,7 @@
 -------------------------------------------------------------------------------------------------------------------
 -- Setup functions for this job.  Generally should not be modified.
 -------------------------------------------------------------------------------------------------------------------
-
+require("no_interruptions")
 -- Also, you'll need the Shortcuts addon to handle the auto-targetting of the custom pact commands.
 
 --[[
